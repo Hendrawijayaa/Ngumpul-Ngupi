@@ -188,15 +188,25 @@ body {
 
 .about .row .content h3 {
   font-size: 1.8rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
 }
 
-.about .row .content p {
+.about .row .content .pertama p {
   margin-bottom: 0.8rem;
-  font-size: 1.4rem;
+  font-size: 1.1rem;
   font-weight: 100;
   line-height: 1.6;
+  text-align: left;
 }
+
+.about .row .content .kedua p {
+  margin-bottom: 0.8rem;
+  font-size: 1.1rem;
+  font-weight: 100;
+  line-height: 1.6;
+  text-align: right;
+}
+
 
 /* Menu Section */
 .menu h2,
