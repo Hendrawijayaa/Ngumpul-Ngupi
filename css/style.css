@@ -398,8 +398,13 @@ footer .credit a{
     font-size: 2rem;
   }
 
-  .about .row .content p {
+  .about .row .content .pertama p {
     font-size: 1.6rem;
+    text-align: left;
+  }
+  .about .row .content .kedua p {
+    font-size: 1.6rem;
+    text-align: right;
   }
 
   .menu p {
